@@ -1,0 +1,14 @@
+.section_3{
+    /* height: 450px; */
+    /* box-sizing: border-box; */
+    display: flex;
+    margin-top: 250px;
+}
+.con_wrap_2{
+    width: 800px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 150px 12px 0px 12px; */
+    margin: 150px auto 0 auto;
+}
